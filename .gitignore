@@ -1,3 +1,7 @@
-Emacs Temporary Files
-#~
-.*\#
+# Emacs Temporary Files
+*~
+*\#
+
+# Jupyter Temporary Files
+.ipynb_checkpoints
+
