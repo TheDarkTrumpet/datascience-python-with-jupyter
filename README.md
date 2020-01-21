@@ -1,5 +1,7 @@
 # datascience-python-with-jupyter
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8310fdb0e3e54dbe8c2b2ae8a4222a2a)](https://app.codacy.com/manual/TheDarkTrumpet/datascience-python-with-jupyter?utm_source=github.com&utm_medium=referral&utm_content=TheDarkTrumpet/datascience-python-with-jupyter&utm_campaign=Badge_Grade_Dashboard)
+
 ## Introduction
 
 This repository is a selection of Jupyter notebooks that demonstrate various ways of loading, processing, and working with data within a Jupyter Notebook environment.
