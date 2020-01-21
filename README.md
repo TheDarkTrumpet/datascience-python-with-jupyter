@@ -14,7 +14,7 @@ Eventually I'll include my setup scripts (which are largely developed already), 
 
 Another option to see how Jupyter works is to open each ipynb file within github's browser.  One factor in my releasing and developing of this repository is that Github now supports rendering of Jupyter files within the browser.  While you can't edit the files directly and rerun, you can get a good idea of what you can do by just looking at the files.
 
-Another option is to use Azure Notebooks.  Available at: https://notebooks.azure.com/  There will be some more instruction on this in the long run, but for now that's an unsupported option - but - it should work with most examples provided here.
+Another option is to use Azure Notebooks.  Available at: [https://notebooks.azure.com/](https://notebooks.azure.com)  There will be some more instruction on this in the long run, but for now that's an unsupported option - but - it should work with most examples provided here.
 
 ## Contributing and Feedback
 
